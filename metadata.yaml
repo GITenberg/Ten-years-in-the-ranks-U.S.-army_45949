@@ -10,6 +10,8 @@ creator:
     gutenberg_agent_id: '43538'
     url: http://www.gutenberg.org/2009/agents/43538
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45949#Ten-years-in-the-ranks-U.S.-army
 gutenberg_issued: '2014-06-12'
 gutenberg_type: Text
 identifiers:
