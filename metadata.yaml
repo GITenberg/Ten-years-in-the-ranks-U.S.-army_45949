@@ -1,0 +1,30 @@
+_repo: Ten-years-in-the-ranks-U.S.-army_45949
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 45949-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Meyers, Augustus
+    birthdate: 1841
+    gutenberg_agent_id: '43538'
+    url: http://www.gutenberg.org/2009/agents/43538
+description: ''
+gutenberg_issued: '2014-06-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45949'
+  lccn: '15002096'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Meyers, Augustus, 1841-'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Personal narratives'
+- !lcc 'E456'
+- !lcsh 'United States. Army of the Potomac -- Biography'
+- !lcsh 'United States. Army -- Military life'
+- !lcsh 'United States -- History -- Civil War, 1861-1865 -- Regimental histories'
+title: Ten years in the ranks, U.S. Army
+url: http://www.gutenberg.org/ebooks/45949
